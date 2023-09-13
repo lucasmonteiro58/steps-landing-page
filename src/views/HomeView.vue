@@ -1,5 +1,5 @@
 <script setup></script>
 
 <template>
-  <main></main>
+  <main class="w-full bg-primary h-screen"></main>
 </template>

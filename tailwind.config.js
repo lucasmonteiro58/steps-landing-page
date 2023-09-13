@@ -6,6 +6,9 @@ export default {
       colors: {
         primary: '#E5258E',
         secondary: '#1e1e1e'
+      },
+      fontFamily: {
+        sans: ['Gotham', 'sans-serif']
       }
     }
   },
